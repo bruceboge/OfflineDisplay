@@ -1,0 +1,32 @@
+{
+  "name": "clubflow",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5000",
+    "lint": "eslint . --ext .js,.jsx,.tsx",
+    "format": "prettier --write .",
+    "audit": "npm audit --audit-level=moderate"
+  },
+  "dependencies": {
+
+    "lucide-react": "^0.254.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.0.0",
+    "eslint": "^8.0.0",
+    "postcss": "^8.0.0",
+    "prettier": "^2.0.0",
+    "tailwindcss": "^3.0.0",
+    "vite": "^5.0.0"
+    
+  }
+}
