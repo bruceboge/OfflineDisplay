@@ -1,0 +1,6 @@
+logics:
+dashboard-GREETINGS: 
+    1. check time and display greetings like goodmorning, goodafternoon, and goodevening
+    followed by the name of the members dashboard
+Elections section we can just link up Clubvote or intergrate it here
+Later consider sms to phone for verification and anouncements

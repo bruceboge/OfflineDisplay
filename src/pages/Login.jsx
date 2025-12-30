@@ -130,7 +130,7 @@ export default function Login() {
         
         {/* Footer */}
         <div className="absolute bottom-6 text-center w-full text-xs text-slate-400">
-            © 2024 ClubFlow Systems (Offline Preview).
+            © 2025 ClubFlow Systems-BRUCE BOGE (Offline Preview).
         </div>
       </div>
     </div>
